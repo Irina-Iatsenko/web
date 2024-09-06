@@ -4,3 +4,4 @@
 
 - Cоставить [тест-план](https://docs.google.com/spreadsheets/d/1K7BJ1MQ-1KFjjg1oMvScQm8t9Olc6V-vhBrWL0EgEYU/edit?gid=0#gid=0) для интернет-магазина;
 - Cоставить [чек-лист]() для тестирования модулей Cart Management, Order Management для интернет-магазина;
+- Составить [тест-кейсы]() на основании проверок из чек-листа для Cart Management, Order Management. Экспортировать тест-кейсы в формате PDF из системы Qase.io;
